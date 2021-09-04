@@ -1,16 +1,31 @@
-<!--
-**reo101/reo101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I am Pavel
 
-Here are some ideas to get you started:
+I am a programmer in heart and soul with a great eye for system design and technical detail, striving to solidify systems to their very core. I am interested in optimizing my workflows and creating tools that aid me in the creation of other tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Constanze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reo101)](https://wakatime.com/plugins)
-[![reo101's github stats](https://github-readme-stats.vercel.app/api?username=reo101&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://www.github.com/reo101)
+### 🔧 Languages / Tools
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00589D)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim&logoColor=4b9e4b)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=f48218)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=f48218)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=3c9cd7)
+![Javascript](https://img.shields.io/badge/-JavaScipt-05122A?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=cmake)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Org](https://img.shields.io/badge/-Org-05122A?style=flat&logo=org)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=1993EF)
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=0062cc)
+![Haskell](https://img.shields.io/badge/-Haskell-05122A?style=flat&logo=haskell&logoColor=b218f4)
+
+### ⚙️  GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/reo101">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reo101&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reo101&layout=compact&langs_count=8&theme=merko"/>
+</a>
+</p>
