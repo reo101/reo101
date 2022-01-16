@@ -31,3 +31,7 @@ I am a programmer in heart and soul with a great eye for system design and techn
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reo101&layout=compact&langs_count=8&theme=merko"/>
 </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reo101/reo101/output/github-contribution-grid-snake.svg" />
+</p>
